@@ -1,6 +1,6 @@
 <html>
 
-<!-- Devops Task3
+<!-- PHP on Kubernetes
 
      Use file_get_contents function to
      read entire file and assign return
@@ -10,7 +10,7 @@
 -->
 
 <head>
-<title>Devops Task3</title>
+<title>PHP on Kubernetes</title>
 <style>
 body  { background-color: #707070;
         color:            #600000; }
@@ -22,7 +22,7 @@ pre   { font-family: Papyrus;
 
 <body>
 
-<h1>Devops Task3</h1>
+<h1>PHP on Kubernetes</h1>
 
 <p>
 <?php
