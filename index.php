@@ -1,6 +1,6 @@
 <html>
 
-<!-- Raven1 Example
+<!-- Devops Task3
 
      Use file_get_contents function to
      read entire file and assign return
@@ -22,7 +22,7 @@ pre   { font-family: Papyrus;
 
 <body>
 
-<h1>Raven1 Example</h1>
+<h1>Devops Task3</h1>
 
 <p>
 <?php
